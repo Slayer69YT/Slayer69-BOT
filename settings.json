@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KrackedCraft.aternos.me",
+    "ip": "KrackedCraftSMP.aternos.me",
     "port": 34071,
     "version": "",
     "try-creative": false
